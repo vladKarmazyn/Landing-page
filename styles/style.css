@@ -424,6 +424,7 @@ transform: scale(1.1);
     transform: scale(1.2);
     filter: brightness(0.5);
 }
+        /*Customer */
 .customer {
     display: flex;
     flex-direction: column;
@@ -476,8 +477,7 @@ transform: scale(1.1);
     align-items: center;
     justify-content: space-between;
 }
-.review_customer_info {
-}
+
 .review_customer_rate span {
     font-weight: 400;
     font-size: 16px;
@@ -561,7 +561,7 @@ top: 6px;
     transform: scale(1.2);
 
 }
-
+    /* Footer */
 .footer {
     background-color: #F8F8F8;
     position: relative;
@@ -579,8 +579,7 @@ top: 6px;
     display: flex;
     flex-direction: column;
 }
-.footer_logo {
-}
+
 .footer_text {
     margin-top: 20px;
     max-width: 340px;
@@ -679,6 +678,7 @@ top: 6px;
 
 }
 
+/* Burger menu */
 .burger {
     display: none;
 }
